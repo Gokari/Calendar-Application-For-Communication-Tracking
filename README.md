@@ -1,16 +1,11 @@
-ENTNT Technical Assignment : Calendar Application for Communication Tracking ADMIN ![Admin1](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/Admin1.png?raw=true)
-![Screenshot 202![Screenshot 2025-01-02 110344](Screenshots/Admin1.png)
-![Screenshot 2025-01-02 110721](https://github.com/user-attachments/assets/188a80b2-7af5-43e5-9e5e-ec5a98ec25a3)
-![Screenshot 2025-01-02 110702](https://github.com/user-attachments/assets/49dba83d-4a42-4382-a64a-466e7485f331)
-![Screenshot 2025-01-02 110641](https://github.com/user-attachments/assets/16d4fc36-0cb0-4fd7-8242-58ab1f9cc6ff)
-![Screenshot 2025-01-02 110538](https://github.com/user-attachments/assets/8671f142-ed80-4c6d-a31f-fd13a7a40cde)
-![Screenshot 2025-01-02 110501](https://github.com/user-attachments/assets/da688770-ce07-4243-86d3-657b0c9cf0d3)
-5-01-02 110344](https://github.com/user-attachments/assets/03b840ee-66c4-4a79-b1d6-181c1efa5de4)
-![Screenshot 2025-01-02 110501](https://github.com/user-attachments/assets/ec13d16e-930b-4cb9-ab97-0aa8d8d87eda)
-![Screenshot 2025-01-02 110538](https://github.com/user-attachments/assets/26f78c2c-da7e-443a-b4fc-f5072bb23c34)
-![Screenshot 2025-01-02 110641](https://github.com/user-attachments/assets/100342f9-2f4b-49ba-a307-81b98dc91650)
-![Screenshot 2025-01-02 110702](https://github.com/user-attachments/assets/13c43e53-05a3-447c-bb9e-a0a00d2cfd41)
-![Screenshot 2025-01-02 110721](https://github.com/user-attachments/assets/fa5c4809-e09a-415d-b268-5be47402d39c)
+#ENTNT Technical Assignment : Calendar Application for Communication Tracking 
+***ADMIN*** 
+![Admin1](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/Admin1.png?raw=true)
+![Admin2](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/Admin2.png?raw=true)
+![Admin3](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/Admin3.png?raw=true)
+![Admin4](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/Admin4.png?raw=true)
+![Admin5](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/Admin5.png?raw=true)
+
 
 
 Objective
