@@ -1,5 +1,5 @@
 ENTNT Technical Assignment : Calendar Application for Communication Tracking ADMIN ![Screenshot 2025-01-02 110208](https://github.com/user-attachments/assets/2f6bbe1c-5cd7-4605-bdd9-fe85b2789102)
-![Screenshot 202![Screenshot 2025-01-02 110344](https://github.com/user-attachments/assets/71b9acc3-20a9-4f4c-a1ae-5d785162ed7f)
+![Screenshot 202![Screenshot 2025-01-02 110344](Screenshots/Admin1.png)
 ![Screenshot 2025-01-02 110721](https://github.com/user-attachments/assets/188a80b2-7af5-43e5-9e5e-ec5a98ec25a3)
 ![Screenshot 2025-01-02 110702](https://github.com/user-attachments/assets/49dba83d-4a42-4382-a64a-466e7485f331)
 ![Screenshot 2025-01-02 110641](https://github.com/user-attachments/assets/16d4fc36-0cb0-4fd7-8242-58ab1f9cc6ff)
