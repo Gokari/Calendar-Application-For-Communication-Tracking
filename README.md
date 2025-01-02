@@ -1,4 +1,6 @@
-#ENTNT Technical Assignment : Calendar Application for Communication Tracking 
+#ENTNT Technical Assignment : Calendar Application for Communication Tracking
+***Deployment***
+  https://calendar-application-for-communication-tracking-lime.vercel.app/user
 ***ADMIN*** 
 ![Admin1](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/Admin1.png?raw=true)
 ![Admin2](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/Admin2.png?raw=true)
@@ -6,6 +8,17 @@
 ![Admin4](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/Admin4.png?raw=true)
 ![Admin5](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/Admin5.png?raw=true)
 
+***User***
+![User1](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/User1.png?raw=true)
+![User2](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/User2.png?raw=true)
+![User3](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/User3.png?raw=true)
+![User4](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/User4.png?raw=true)
+
+***Reports***
+![Reports1](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/Reports1.png?raw=true)
+![Reports2](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/Reports2.png?raw=true)
+![Reports3](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/Reports3.png?raw=true)
+![Reports4](https://github.com/Gokari/Calendar-Application-For-Communication-Tracking/blob/master/Screenshots/Reports4.png?raw=true)
 
 
 Objective
@@ -104,7 +117,7 @@ This application is designed to help maintain strong professional relationships 
 ## Installation and Setup
 
 1. Clone the repository.
-2.  git clone <https://github.com/Venkatraoavula/Calendar-Application-For-Communication-Tracking.git>
+2.  git clone <https://github.com/Gokari/Calendar-Application-For-Communication-Tracking.git>
 3. Open the project in **VS Code**.
 4. Run the following commands:
    ```bash
@@ -133,6 +146,8 @@ Contributions are welcome! Please follow these steps:
 2. Create a new branch for your feature/fix.
 3. Commit your changes and push to your branch.
 4. Create a Pull Request.
+
+
 
 
 
